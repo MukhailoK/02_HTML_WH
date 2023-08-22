@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+    color: #e75d5d;
+}
+#intro{
+    text-align: center;
+    font-size: 25px;
+    color: #eb5f5f;
+}
+.refers{
+    text-align: center;
+    font-size: 25px;
+    color: #bb5454;
+}
+.refers-front{
+    text-align: center;
+    font-size: 25px;
+    color: #d36565;
+}
+#intro-front{
+    text-align: center;
+    font-size: 25px;
+    color: #e03939;
+}
+body{
+    background-image: url(https://images7.alphacoders.com/111/1110332.png);
+   background-color: rgb(31, 2, 68); 
+   background-size: 1920px;
+   width: 1920px;
+   height: 1080px;
+   border: 2px solid;
+}
+.footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+   background-color: silver;
+
+}
